@@ -63,6 +63,7 @@
 
 ### Name: MANOGARAN S
 ### Register Number: 212223240081
+![Screenshot 2024-05-13 173420](https://github.com/manogarans/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331782/9b9567eb-4ba8-4d24-82a3-23790a9ecb1b)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
